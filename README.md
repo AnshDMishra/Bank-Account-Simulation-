@@ -44,6 +44,6 @@ This project contains a python script (Bank_Simulation_System.py) and a database
 </h5> 
 
 <img src="https://madewithlove.now.sh/in?heart=true&template=plastic" alt="Made with love in India"></img>  
-###### Made with ❤️ by _Ansh D Mishra_ 
+###### Coded with ❤️ by _Ansh D Mishra_ 
  
 
